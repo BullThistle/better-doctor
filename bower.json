@@ -1,0 +1,21 @@
+{
+  "name": "doctor-lookup",
+  "description": "A web app that looks up doctors using the better doctor api",
+  "main": "index.js",
+  "authors": [
+    "Rafael Furry <rfurry@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "materialize": "^0.100.2"
+  }
+}
